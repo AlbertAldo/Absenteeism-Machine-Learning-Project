@@ -44,7 +44,7 @@ Data  | Accuracy | Recall | Precision | F1-Score
 Training Pipeline RandomForestClassifier Tuned | 0.800718   |0.876437	 | 0.817694 | 0.846047	
 Test Pipeline RandomForestClassifier Tuned | 0.785714	   | 0.862069 | 0.806452 | 0.846047
 
-Dengan hasil classification report sebagai berikut
+Dengan hasil classification report sebagai berikut :
 
 ![ClassificationReport](https://i.imgur.com/0bzqVjf.png)
 
