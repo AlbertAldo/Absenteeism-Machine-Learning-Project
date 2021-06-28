@@ -45,6 +45,7 @@ Training Pipeline RandomForestClassifier Tuned | 0.800718   |0.876437	 | 0.81769
 Test Pipeline RandomForestClassifier Tuned | 0.785714	   | 0.862069 | 0.806452 | 0.846047
 
 Dengan hasil classification report sebagai berikut
+
 ![ClassificationReport](https://i.imgur.com/0bzqVjf.png)
 
 ### Penjelasan Classification Report
