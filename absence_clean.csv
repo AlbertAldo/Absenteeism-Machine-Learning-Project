@@ -1,0 +1,698 @@
+,ID,Month of absence,Day of the week,Transportation expense,Distance from Residence to Work,Service time,Age,Work load Average/day ,Education,Son,Social drinker,Absenteeism time in hours,Reason
+0,11,7,Tuesday,289,36,13,33,239.554,High School,2,Yes,4,Without ICD
+1,3,7,Wednesday,179,51,18,38,239.554,High School,0,Yes,2,Without ICD
+2,7,7,Thursday,279,5,14,39,239.554,High School,2,Yes,4,ICD
+3,11,7,Thursday,289,36,13,33,239.554,High School,2,Yes,2,Without ICD
+4,3,7,Friday,179,51,18,38,239.554,High School,0,Yes,2,Without ICD
+5,10,7,Friday,361,52,3,28,239.554,High School,1,Yes,8,Without ICD
+6,20,7,Friday,260,50,11,36,239.554,High School,4,Yes,4,Without ICD
+7,14,7,Monday,155,12,14,34,239.554,High School,2,Yes,40,ICD
+8,1,7,Monday,235,11,14,37,239.554,PostGraduate,1,No,8,Without ICD
+9,20,7,Monday,260,50,11,36,239.554,High School,4,Yes,8,ICD
+10,20,7,Tuesday,260,50,11,36,239.554,High School,4,Yes,8,ICD
+11,20,7,Wednesday,260,50,11,36,239.554,High School,4,Yes,8,ICD
+12,3,7,Wednesday,179,51,18,38,239.554,High School,0,Yes,1,ICD
+13,3,7,Wednesday,179,51,18,38,239.554,High School,0,Yes,4,Without ICD
+14,24,7,Friday,246,25,16,41,239.554,High School,0,Yes,8,ICD
+15,3,7,Friday,179,51,18,38,239.554,High School,0,Yes,2,Without ICD
+16,3,7,Monday,179,51,18,38,239.554,High School,0,Yes,8,ICD
+17,6,7,Thursday,189,29,13,33,239.554,High School,2,No,8,ICD
+18,33,8,Wednesday,248,25,14,47,205.917,High School,2,No,2,Without ICD
+19,18,8,Wednesday,330,16,4,28,205.917,Graduate,0,No,8,ICD
+20,3,8,Monday,179,51,18,38,205.917,High School,0,Yes,1,ICD
+21,10,8,Monday,361,52,3,28,205.917,High School,1,Yes,40,ICD
+22,20,8,Friday,260,50,11,36,205.917,High School,4,Yes,4,Without ICD
+23,11,8,Monday,289,36,13,33,205.917,High School,2,Yes,8,ICD
+24,10,8,Monday,361,52,3,28,205.917,High School,1,Yes,7,Without ICD
+25,11,8,Tuesday,289,36,13,33,205.917,High School,2,Yes,1,Without ICD
+26,30,8,Wednesday,157,27,6,29,205.917,High School,0,Yes,4,Without ICD
+27,11,8,Wednesday,289,36,13,33,205.917,High School,2,Yes,8,ICD
+28,3,8,Friday,179,51,18,38,205.917,High School,0,Yes,2,Without ICD
+29,3,8,Monday,179,51,18,38,205.917,High School,0,Yes,8,ICD
+30,2,8,Thursday,235,29,12,48,205.917,High School,1,No,8,ICD
+31,1,8,Thursday,235,11,14,37,205.917,PostGraduate,1,No,4,Without ICD
+32,2,8,Monday,235,29,12,48,205.917,High School,1,No,8,ICD
+33,3,8,Monday,179,51,18,38,205.917,High School,0,Yes,2,Without ICD
+34,10,8,Monday,361,52,3,28,205.917,High School,1,Yes,1,Without ICD
+35,11,8,Tuesday,289,36,13,33,205.917,High School,2,Yes,8,Without ICD
+36,19,8,Thursday,291,50,12,32,205.917,High School,0,Yes,4,ICD
+37,2,8,Friday,235,29,12,48,205.917,High School,1,No,8,Without ICD
+38,20,8,Friday,260,50,11,36,205.917,High School,4,Yes,4,Without ICD
+39,27,9,Tuesday,184,42,7,27,241.476,High School,0,No,2,Without ICD
+40,34,9,Monday,118,10,10,37,241.476,High School,0,No,4,Without ICD
+41,3,9,Tuesday,179,51,18,38,241.476,High School,0,Yes,4,Without ICD
+42,5,9,Tuesday,235,20,13,43,241.476,High School,1,Yes,8,ICD
+43,14,9,Wednesday,155,12,14,34,241.476,High School,2,Yes,2,Without ICD
+44,34,9,Monday,118,10,10,37,241.476,High School,0,No,3,Without ICD
+45,3,9,Tuesday,179,51,18,38,241.476,High School,0,Yes,3,Without ICD
+46,15,9,Thursday,291,31,12,40,241.476,High School,1,Yes,4,Without ICD
+47,20,9,Friday,260,50,11,36,241.476,High School,4,Yes,8,Without ICD
+48,15,9,Monday,291,31,12,40,241.476,High School,1,Yes,32,ICD
+49,28,9,Tuesday,225,26,9,28,241.476,High School,1,No,2,Without ICD
+50,34,9,Tuesday,118,10,10,37,241.476,High School,0,No,2,Without ICD
+51,28,9,Wednesday,225,26,9,28,241.476,High School,1,No,3,ICD
+52,3,9,Wednesday,179,51,18,38,241.476,High School,0,Yes,3,Without ICD
+53,33,9,Friday,248,25,14,47,241.476,High School,2,No,1,Without ICD
+54,3,9,Friday,179,51,18,38,241.476,High School,0,Yes,3,Without ICD
+55,20,9,Friday,260,50,11,36,241.476,High School,4,Yes,4,Without ICD
+56,3,10,Tuesday,179,51,18,38,253.465,High School,0,Yes,3,Without ICD
+57,34,10,Tuesday,118,10,10,37,253.465,High School,0,No,3,Without ICD
+58,22,10,Thursday,179,26,9,30,253.465,PostGraduate,0,No,1,Without ICD
+59,3,10,Friday,179,51,18,38,253.465,High School,0,Yes,3,Without ICD
+60,28,10,Friday,225,26,9,28,253.465,High School,1,No,3,Without ICD
+61,34,10,Tuesday,118,10,10,37,253.465,High School,0,No,3,Without ICD
+62,28,10,Wednesday,225,26,9,28,253.465,High School,1,No,2,Without ICD
+63,33,10,Wednesday,248,25,14,47,253.465,High School,2,No,2,Without ICD
+64,15,10,Thursday,291,31,12,40,253.465,High School,1,Yes,5,Without ICD
+65,3,10,Wednesday,179,51,18,38,253.465,High School,0,Yes,8,Without ICD
+66,28,10,Wednesday,225,26,9,28,253.465,High School,1,No,3,Without ICD
+67,20,10,Thursday,260,50,11,36,253.465,High School,4,Yes,16,ICD
+68,15,10,Tuesday,291,31,12,40,253.465,High School,1,Yes,8,ICD
+69,28,10,Tuesday,225,26,9,28,253.465,High School,1,No,2,Without ICD
+70,11,10,Wednesday,289,36,13,33,253.465,High School,2,Yes,8,Without ICD
+71,10,10,Friday,361,52,3,28,253.465,High School,1,Yes,1,Without ICD
+72,20,10,Friday,260,50,11,36,253.465,High School,4,Yes,3,Without ICD
+73,3,11,Thursday,179,51,18,38,306.345,High School,0,Yes,1,Without ICD
+74,28,11,Wednesday,225,26,9,28,306.345,High School,1,No,1,Without ICD
+75,3,11,Thursday,179,51,18,38,306.345,High School,0,Yes,8,ICD
+76,17,11,Thursday,179,22,17,40,306.345,Graduate,2,No,8,ICD
+77,15,11,Thursday,291,31,12,40,306.345,High School,1,Yes,5,Without ICD
+78,14,11,Monday,155,12,14,34,306.345,High School,2,Yes,32,ICD
+79,6,11,Monday,189,29,13,33,306.345,High School,2,No,8,Without ICD
+80,15,11,Monday,291,31,12,40,306.345,High School,1,Yes,40,ICD
+81,28,11,Wednesday,225,26,9,28,306.345,High School,1,No,1,Without ICD
+82,14,11,Friday,155,12,14,34,306.345,High School,2,Yes,8,ICD
+83,28,11,Wednesday,225,26,9,28,306.345,High School,1,No,3,Without ICD
+84,17,11,Wednesday,179,22,17,40,306.345,Graduate,2,No,8,ICD
+85,28,11,Friday,225,26,9,28,306.345,High School,1,No,3,ICD
+86,20,11,Friday,260,50,11,36,306.345,High School,4,Yes,4,Without ICD
+87,33,11,Monday,248,25,14,47,306.345,High School,2,No,1,Without ICD
+88,28,11,Tuesday,225,26,9,28,306.345,High School,1,No,3,Without ICD
+89,11,11,Wednesday,289,36,13,33,306.345,High School,2,Yes,24,ICD
+90,15,11,Thursday,291,31,12,40,306.345,High School,1,Yes,3,Without ICD
+91,33,12,Tuesday,248,25,14,47,261.306,High School,2,No,1,Without ICD
+92,34,12,Tuesday,118,10,10,37,261.306,High School,0,No,64,ICD
+93,36,12,Wednesday,118,13,18,50,261.306,High School,1,Yes,2,Without ICD
+94,1,12,Wednesday,235,11,14,37,261.306,PostGraduate,1,No,8,Without ICD
+95,28,12,Thursday,225,26,9,28,261.306,High School,1,No,2,Without ICD
+96,20,12,Friday,260,50,11,36,261.306,High School,4,Yes,8,Without ICD
+97,34,12,Tuesday,118,10,10,37,261.306,High School,0,No,56,ICD
+98,10,12,Wednesday,361,52,3,28,261.306,High School,1,Yes,8,Without ICD
+99,28,12,Thursday,225,26,9,28,261.306,High School,1,No,3,Without ICD
+100,20,12,Friday,260,50,11,36,261.306,High School,4,Yes,3,Without ICD
+101,28,12,Tuesday,225,26,9,28,261.306,High School,1,No,2,Without ICD
+102,10,12,Wednesday,361,52,3,28,261.306,High School,1,Yes,8,Without ICD
+103,34,12,Friday,118,10,10,37,261.306,High School,0,No,2,Without ICD
+104,24,12,Friday,246,25,16,41,261.306,High School,0,Yes,8,ICD
+105,28,12,Friday,225,26,9,28,261.306,High School,1,No,2,Without ICD
+106,28,1,Wednesday,225,26,9,28,308.593,High School,1,No,1,Without ICD
+107,34,1,Monday,118,10,10,37,308.593,High School,0,No,1,ICD
+108,34,1,Tuesday,118,10,10,37,308.593,High School,0,No,1,Without ICD
+109,14,1,Tuesday,155,12,14,34,308.593,High School,2,Yes,8,ICD
+110,28,1,Wednesday,225,26,9,28,308.593,High School,1,No,2,Without ICD
+111,27,1,Thursday,184,42,7,27,308.593,High School,0,No,2,Without ICD
+112,28,1,Thursday,225,26,9,28,308.593,High School,1,No,2,Without ICD
+113,28,1,Friday,225,26,9,28,308.593,High School,1,No,1,Without ICD
+114,34,1,Monday,118,10,10,37,308.593,High School,0,No,2,Without ICD
+115,28,1,Tuesday,225,26,9,28,308.593,High School,1,No,2,Without ICD
+116,34,1,Tuesday,118,10,10,37,308.593,High School,0,No,2,Without ICD
+117,34,1,Wednesday,118,10,10,37,308.593,High School,0,No,2,Without ICD
+118,34,1,Thursday,118,10,10,37,308.593,High School,0,No,2,Without ICD
+119,34,1,Friday,118,10,10,37,308.593,High School,0,No,2,Without ICD
+120,34,1,Monday,118,10,10,37,308.593,High School,0,No,2,Without ICD
+121,34,1,Tuesday,118,10,10,37,308.593,High School,0,No,2,Without ICD
+122,22,1,Tuesday,179,26,9,30,308.593,PostGraduate,0,No,8,ICD
+123,11,1,Tuesday,289,36,13,33,308.593,High School,2,Yes,8,ICD
+124,34,1,Wednesday,118,10,10,37,308.593,High School,0,No,2,Without ICD
+125,27,1,Thursday,184,42,7,27,308.593,High School,0,No,2,Without ICD
+126,34,1,Thursday,118,10,10,37,308.593,High School,0,No,2,Without ICD
+127,34,1,Monday,118,10,10,37,308.593,High School,0,No,0,Without ICD
+128,28,1,Tuesday,225,26,9,28,308.593,High School,1,No,1,Without ICD
+129,11,1,Thursday,289,36,13,33,308.593,High School,2,Yes,3,Without ICD
+130,27,2,Friday,184,42,7,27,302.585,High School,0,No,1,Without ICD
+131,24,2,Wednesday,246,25,16,41,302.585,High School,0,Yes,8,ICD
+132,3,2,Wednesday,179,51,18,38,302.585,High School,0,Yes,8,ICD
+133,14,2,Thursday,155,12,14,34,302.585,High School,2,Yes,2,Without ICD
+134,6,2,Thursday,189,29,13,33,302.585,High School,2,No,8,Without ICD
+135,20,2,Friday,260,50,11,36,302.585,High School,4,Yes,2,Without ICD
+136,11,2,Friday,289,36,13,33,302.585,High School,2,Yes,8,Without ICD
+137,31,2,Monday,388,15,9,50,302.585,High School,0,No,8,ICD
+138,31,2,Tuesday,388,15,9,50,302.585,High School,0,No,8,ICD
+139,28,2,Monday,225,26,9,28,302.585,High School,1,No,2,Without ICD
+140,28,2,Tuesday,225,26,9,28,302.585,High School,1,No,2,Without ICD
+141,22,2,Tuesday,179,26,9,30,302.585,PostGraduate,0,No,1,Without ICD
+142,27,2,Tuesday,184,42,7,27,302.585,High School,0,No,8,Without ICD
+143,28,2,Thursday,225,26,9,28,302.585,High School,1,No,3,Without ICD
+144,18,2,Monday,330,16,4,28,302.585,Graduate,0,No,8,ICD
+145,18,2,Tuesday,330,16,4,28,302.585,Graduate,0,No,1,Without ICD
+146,28,2,Wednesday,225,26,9,28,302.585,High School,1,No,1,Without ICD
+147,6,2,Thursday,189,29,13,33,302.585,High School,2,No,8,ICD
+148,19,3,Tuesday,291,50,12,32,343.25300000000004,High School,0,Yes,2,Without ICD
+149,20,3,Tuesday,260,50,11,36,343.25300000000004,High School,4,Yes,8,ICD
+150,30,3,Tuesday,157,27,6,29,343.25300000000004,High School,0,Yes,3,ICD
+151,17,3,Tuesday,179,22,17,40,343.25300000000004,Graduate,2,No,8,ICD
+152,15,3,Wednesday,291,31,12,40,343.25300000000004,High School,1,Yes,8,Without ICD
+153,20,3,Wednesday,260,50,11,36,343.25300000000004,High School,4,Yes,8,ICD
+154,22,3,Thursday,179,26,9,30,343.25300000000004,PostGraduate,0,No,8,ICD
+155,33,3,Friday,248,25,14,47,343.25300000000004,High School,2,No,3,ICD
+156,20,3,Friday,260,50,11,36,343.25300000000004,High School,4,Yes,40,ICD
+157,17,3,Monday,179,22,17,40,343.25300000000004,Graduate,2,No,40,ICD
+158,14,3,Monday,155,12,14,34,343.25300000000004,High School,2,Yes,16,ICD
+159,20,3,Monday,260,50,11,36,343.25300000000004,High School,4,Yes,16,Without ICD
+160,14,3,Tuesday,155,12,14,34,343.25300000000004,High School,2,Yes,8,ICD
+161,11,3,Thursday,289,36,13,33,343.25300000000004,High School,2,Yes,8,ICD
+162,17,3,Thursday,179,22,17,40,343.25300000000004,Graduate,2,No,8,ICD
+163,20,3,Friday,260,50,11,36,343.25300000000004,High School,4,Yes,4,Without ICD
+164,28,3,Friday,225,26,9,28,343.25300000000004,High School,1,No,1,Without ICD
+165,7,3,Monday,279,5,14,39,343.25300000000004,High School,2,Yes,8,ICD
+166,3,3,Tuesday,179,51,18,38,343.25300000000004,High School,0,Yes,24,ICD
+167,28,3,Wednesday,225,26,9,28,343.25300000000004,High School,1,No,2,Without ICD
+168,28,3,Monday,225,26,9,28,343.25300000000004,High School,1,No,8,ICD
+169,22,3,Monday,179,26,9,30,343.25300000000004,PostGraduate,0,No,1,ICD
+170,28,3,Tuesday,225,26,9,28,343.25300000000004,High School,1,No,8,ICD
+171,28,3,Wednesday,225,26,9,28,343.25300000000004,High School,1,No,16,ICD
+172,3,3,Wednesday,179,51,18,38,343.25300000000004,High School,0,Yes,3,ICD
+173,7,3,Thursday,279,5,14,39,343.25300000000004,High School,2,Yes,16,ICD
+174,28,3,Friday,225,26,9,28,343.25300000000004,High School,1,No,2,Without ICD
+175,33,3,Friday,248,25,14,47,343.25300000000004,High School,2,No,3,ICD
+176,28,3,Monday,225,26,9,28,343.25300000000004,High School,1,No,1,Without ICD
+177,15,4,Wednesday,291,31,12,40,326.452,High School,1,Yes,1,Without ICD
+178,28,4,Wednesday,225,26,9,28,326.452,High School,1,No,1,Without ICD
+179,14,4,Tuesday,155,12,14,34,326.452,High School,2,Yes,1,Without ICD
+180,24,4,Wednesday,246,25,16,41,326.452,High School,0,Yes,24,ICD
+181,14,4,Thursday,155,12,14,34,326.452,High School,2,Yes,1,Without ICD
+182,28,4,Friday,225,26,9,28,326.452,High School,1,No,2,Without ICD
+183,20,4,Friday,260,50,11,36,326.452,High School,4,Yes,4,Without ICD
+184,3,4,Wednesday,179,51,18,38,326.452,High School,0,Yes,24,ICD
+185,36,4,Thursday,118,13,18,50,326.452,High School,1,Yes,1,Without ICD
+186,15,4,Friday,291,31,12,40,326.452,High School,1,Yes,3,Without ICD
+187,24,4,Friday,246,25,16,41,326.452,High School,0,Yes,8,ICD
+188,15,4,Friday,291,31,12,40,326.452,High School,1,Yes,1,Without ICD
+189,33,4,Friday,248,25,14,47,326.452,High School,2,No,8,Without ICD
+190,20,4,Friday,260,50,11,36,326.452,High School,4,Yes,56,ICD
+191,11,4,Tuesday,289,36,13,33,326.452,High School,2,Yes,8,ICD
+192,14,4,Wednesday,155,12,14,34,326.452,High School,2,Yes,24,ICD
+193,23,4,Wednesday,378,49,11,36,326.452,High School,2,No,8,ICD
+194,11,4,Thursday,289,36,13,33,326.452,High School,2,Yes,16,ICD
+195,1,4,Friday,235,11,14,37,326.452,PostGraduate,1,No,3,ICD
+196,11,5,Wednesday,289,36,13,33,378.884,High School,2,Yes,8,ICD
+197,14,5,Thursday,155,12,14,34,378.884,High School,2,Yes,2,Without ICD
+198,14,5,Monday,155,12,14,34,378.884,High School,2,Yes,1,Without ICD
+199,3,5,Tuesday,179,51,18,38,378.884,High School,0,Yes,8,ICD
+200,28,5,Tuesday,225,26,9,28,378.884,High School,1,No,8,ICD
+201,27,5,Wednesday,184,42,7,27,378.884,High School,0,No,4,ICD
+202,14,5,Monday,155,12,14,34,378.884,High School,2,Yes,2,Without ICD
+203,3,5,Tuesday,179,51,18,38,378.884,High School,0,Yes,1,ICD
+204,11,5,Wednesday,289,36,13,33,378.884,High School,2,Yes,24,ICD
+205,3,5,Tuesday,179,51,18,38,378.884,High School,0,Yes,1,ICD
+206,36,5,Wednesday,118,13,18,50,378.884,High School,1,Yes,24,ICD
+207,10,5,Friday,361,52,3,28,378.884,High School,1,Yes,8,Without ICD
+208,24,6,Monday,246,25,16,41,377.55,High School,0,Yes,8,ICD
+209,10,6,Monday,361,52,3,28,377.55,High School,1,Yes,8,Without ICD
+210,24,6,Tuesday,246,25,16,41,377.55,High School,0,Yes,24,ICD
+211,15,6,Thursday,291,31,12,40,377.55,High School,1,Yes,4,Without ICD
+212,24,6,Friday,246,25,16,41,377.55,High School,0,Yes,8,ICD
+213,3,6,Monday,179,51,18,38,377.55,High School,0,Yes,8,ICD
+214,14,6,Monday,155,12,14,34,377.55,High School,2,Yes,4,Without ICD
+215,24,6,Monday,246,25,16,41,377.55,High School,0,Yes,8,ICD
+216,36,6,Wednesday,118,13,18,50,377.55,High School,1,Yes,8,ICD
+217,1,6,Friday,235,11,14,37,377.55,PostGraduate,1,No,16,ICD
+218,36,6,Tuesday,118,13,18,50,377.55,High School,1,Yes,1,Without ICD
+219,36,6,Wednesday,118,13,18,50,377.55,High School,1,Yes,80,ICD
+220,23,6,Thursday,378,49,11,36,377.55,High School,2,No,8,Without ICD
+221,3,6,Friday,179,51,18,38,377.55,High School,0,Yes,2,ICD
+222,32,6,Monday,289,48,29,49,377.55,High School,0,No,2,Without ICD
+223,28,6,Thursday,225,26,9,28,377.55,High School,1,No,2,Without ICD
+224,14,7,Tuesday,155,12,14,34,275.312,High School,2,Yes,16,ICD
+225,36,7,Wednesday,118,13,18,50,275.312,High School,1,Yes,8,ICD
+226,34,7,Friday,118,10,10,37,275.312,High School,0,No,8,ICD
+227,34,7,Friday,118,10,10,37,275.312,High School,0,No,4,Without ICD
+228,18,7,Tuesday,330,16,4,28,275.312,Graduate,0,No,8,Without ICD
+229,22,7,Thursday,179,26,9,30,275.312,PostGraduate,0,No,8,ICD
+230,14,7,Friday,155,12,14,34,275.312,High School,2,Yes,2,Without ICD
+231,18,7,Monday,330,16,4,28,275.312,Graduate,0,No,8,ICD
+232,18,7,Tuesday,330,16,4,28,275.312,Graduate,0,No,8,ICD
+233,30,7,Monday,157,27,6,29,275.312,High School,0,Yes,3,Without ICD
+234,10,7,Tuesday,361,52,3,28,275.312,High School,1,Yes,8,Without ICD
+235,11,7,Wednesday,289,36,13,33,275.312,High School,2,Yes,8,Without ICD
+236,3,7,Thursday,179,51,18,38,275.312,High School,0,Yes,8,Without ICD
+237,11,7,Monday,289,36,13,33,275.312,High School,2,Yes,32,ICD
+238,11,7,Thursday,289,36,13,33,275.312,High School,2,Yes,8,ICD
+239,11,8,Friday,289,36,13,33,265.615,High School,2,Yes,8,ICD
+240,30,8,Friday,157,27,6,29,265.615,High School,0,Yes,3,ICD
+241,11,8,Monday,289,36,13,33,265.615,High School,2,Yes,1,Without ICD
+242,9,8,Tuesday,228,14,16,58,265.615,High School,2,No,8,ICD
+243,26,8,Thursday,300,26,13,43,265.615,High School,2,Yes,1,ICD
+244,26,8,Thursday,300,26,13,43,265.615,High School,2,Yes,2,ICD
+245,20,8,Friday,260,50,11,36,265.615,High School,4,Yes,4,Without ICD
+246,11,8,Tuesday,289,36,13,33,265.615,High School,2,Yes,4,Without ICD
+247,33,8,Wednesday,248,25,14,47,265.615,High School,2,No,1,Without ICD
+248,21,8,Thursday,268,11,8,33,265.615,Graduate,0,No,8,ICD
+249,22,8,Thursday,179,26,9,30,265.615,PostGraduate,0,No,1,Without ICD
+250,36,8,Thursday,118,13,18,50,265.615,High School,1,Yes,3,ICD
+251,33,8,Monday,248,25,14,47,265.615,High School,2,No,2,Without ICD
+252,1,8,Tuesday,235,11,14,37,265.615,PostGraduate,1,No,1,Without ICD
+253,36,8,Thursday,118,13,18,50,265.615,High School,1,Yes,1,Without ICD
+254,1,8,Thursday,235,11,14,37,265.615,PostGraduate,1,No,8,ICD
+255,10,8,Tuesday,361,52,3,28,265.615,High School,1,Yes,8,ICD
+256,27,8,Wednesday,184,42,7,27,265.615,High School,0,No,8,ICD
+257,3,9,Monday,179,51,18,38,294.217,High School,0,Yes,8,ICD
+258,3,9,Friday,179,51,18,38,294.217,High School,0,Yes,3,Without ICD
+259,11,9,Wednesday,289,36,13,33,294.217,High School,2,Yes,24,ICD
+260,24,9,Monday,246,25,16,41,294.217,High School,0,Yes,16,ICD
+261,15,9,Tuesday,291,31,12,40,294.217,High School,1,Yes,3,Without ICD
+262,3,9,Wednesday,179,51,18,38,294.217,High School,0,Yes,8,ICD
+263,24,9,Wednesday,246,25,16,41,294.217,High School,0,Yes,32,ICD
+264,3,9,Thursday,179,51,18,38,294.217,High School,0,Yes,1,Without ICD
+265,15,9,Friday,291,31,12,40,294.217,High School,1,Yes,4,Without ICD
+266,20,9,Friday,260,50,11,36,294.217,High School,4,Yes,4,Without ICD
+267,5,9,Wednesday,235,20,13,43,294.217,High School,1,Yes,8,Without ICD
+268,36,9,Thursday,118,13,18,50,294.217,High School,1,Yes,1,Without ICD
+269,15,9,Friday,291,31,12,40,294.217,High School,1,Yes,3,Without ICD
+270,15,9,Monday,291,31,12,40,294.217,High School,1,Yes,40,ICD
+271,3,9,Monday,179,51,18,38,294.217,High School,0,Yes,8,ICD
+272,11,10,Monday,289,36,13,33,265.017,High School,2,Yes,8,Without ICD
+273,1,10,Monday,235,11,14,37,265.017,PostGraduate,1,No,4,Without ICD
+274,11,10,Monday,289,36,13,33,265.017,High School,2,Yes,8,Without ICD
+275,11,10,Friday,289,36,13,33,265.017,High School,2,Yes,8,Without ICD
+276,22,10,Monday,179,26,9,30,265.017,PostGraduate,0,No,8,ICD
+277,34,10,Monday,118,10,10,37,265.017,High School,0,No,3,ICD
+278,13,10,Monday,369,17,12,31,265.017,High School,3,Yes,8,Without ICD
+279,3,10,Wednesday,179,51,18,38,265.017,High School,0,Yes,1,Without ICD
+280,22,10,Wednesday,179,26,9,30,265.017,PostGraduate,0,No,64,ICD
+281,11,10,Thursday,289,36,13,33,265.017,High School,2,Yes,16,ICD
+282,20,10,Friday,260,50,11,36,265.017,High School,4,Yes,3,Without ICD
+283,5,10,Monday,235,20,13,43,265.017,High School,1,Yes,2,Without ICD
+284,5,10,Monday,235,20,13,43,265.017,High School,1,Yes,2,Without ICD
+285,36,10,Tuesday,118,13,18,50,265.017,High School,1,Yes,1,Without ICD
+286,15,10,Tuesday,291,31,12,40,265.017,High School,1,Yes,4,Without ICD
+287,22,10,Thursday,179,26,9,30,265.017,PostGraduate,0,No,16,Without ICD
+288,36,10,Thursday,118,13,18,50,265.017,High School,1,Yes,1,Without ICD
+289,10,10,Monday,361,52,3,28,265.017,High School,1,Yes,8,ICD
+290,22,10,Wednesday,179,26,9,30,265.017,PostGraduate,0,No,5,ICD
+291,22,10,Wednesday,179,26,9,30,265.017,PostGraduate,0,No,5,ICD
+292,36,10,Thursday,118,13,18,50,265.017,High School,1,Yes,1,Without ICD
+293,34,11,Monday,118,10,10,37,284.031,High School,0,No,8,ICD
+294,33,11,Monday,248,25,14,47,284.031,High School,2,No,2,Without ICD
+295,3,11,Tuesday,179,51,18,38,284.031,High School,0,Yes,8,ICD
+296,20,11,Friday,260,50,11,36,284.031,High School,4,Yes,3,Without ICD
+297,15,11,Monday,291,31,12,40,284.031,High School,1,Yes,1,Without ICD
+298,23,11,Monday,378,49,11,36,284.031,High School,2,No,8,ICD
+299,14,11,Monday,155,12,14,34,284.031,High School,2,Yes,120,ICD
+300,5,11,Monday,235,20,13,43,284.031,High School,1,Yes,8,Without ICD
+301,1,11,Wednesday,235,11,14,37,284.031,PostGraduate,1,No,1,ICD
+302,34,11,Wednesday,118,10,10,37,284.031,High School,0,No,3,ICD
+303,1,11,Thursday,235,11,14,37,284.031,PostGraduate,1,No,2,Without ICD
+304,3,11,Thursday,179,51,18,38,284.031,High School,0,Yes,3,Without ICD
+305,24,11,Friday,246,25,16,41,284.031,High School,0,Yes,8,ICD
+306,15,11,Friday,291,31,12,40,284.031,High School,1,Yes,4,ICD
+307,24,11,Monday,246,25,16,41,284.031,High School,0,Yes,8,ICD
+308,3,11,Tuesday,179,51,18,38,284.031,High School,0,Yes,1,Without ICD
+309,20,11,Wednesday,260,50,11,36,284.031,High School,4,Yes,8,ICD
+310,20,11,Friday,260,50,11,36,284.031,High School,4,Yes,8,ICD
+311,3,11,Thursday,179,51,18,38,284.031,High School,0,Yes,1,Without ICD
+312,28,12,Monday,225,26,9,28,236.62900000000002,High School,1,No,3,ICD
+313,3,12,Monday,179,51,18,38,236.62900000000002,High School,0,Yes,2,Without ICD
+314,3,12,Monday,179,51,18,38,236.62900000000002,High School,0,Yes,1,Without ICD
+315,1,12,Monday,235,11,14,37,236.62900000000002,PostGraduate,1,No,3,Without ICD
+316,36,12,Tuesday,118,13,18,50,236.62900000000002,High School,1,Yes,1,Without ICD
+317,20,12,Friday,260,50,11,36,236.62900000000002,High School,4,Yes,4,Without ICD
+318,24,12,Thursday,246,25,16,41,236.62900000000002,High School,0,Yes,8,ICD
+319,3,12,Thursday,179,51,18,38,236.62900000000002,High School,0,Yes,1,Without ICD
+320,3,12,Friday,179,51,18,38,236.62900000000002,High School,0,Yes,1,Without ICD
+321,22,12,Tuesday,179,26,9,30,236.62900000000002,PostGraduate,0,No,1,Without ICD
+322,34,12,Tuesday,118,10,10,37,236.62900000000002,High School,0,No,8,Without ICD
+323,1,12,Thursday,235,11,14,37,236.62900000000002,PostGraduate,1,No,2,Without ICD
+324,3,12,Friday,179,51,18,38,236.62900000000002,High School,0,Yes,1,Without ICD
+325,5,12,Tuesday,235,20,13,43,236.62900000000002,High School,1,Yes,8,ICD
+326,1,12,Tuesday,235,11,14,37,236.62900000000002,PostGraduate,1,No,4,ICD
+327,20,12,Wednesday,260,50,11,36,236.62900000000002,High School,4,Yes,8,Without ICD
+328,30,12,Monday,157,27,6,29,236.62900000000002,High School,0,Yes,2,Without ICD
+329,3,12,Monday,179,51,18,38,236.62900000000002,High School,0,Yes,3,Without ICD
+330,11,12,Monday,289,36,13,33,236.62900000000002,High School,2,Yes,8,ICD
+331,28,1,Wednesday,225,26,9,28,330.061,High School,1,No,5,Without ICD
+332,34,1,Monday,118,10,10,37,330.061,High School,0,No,32,ICD
+333,14,1,Monday,155,12,14,34,330.061,High School,2,Yes,2,Without ICD
+334,1,1,Tuesday,235,11,14,37,330.061,PostGraduate,1,No,1,ICD
+335,14,1,Tuesday,155,12,14,34,330.061,High School,2,Yes,4,Without ICD
+336,11,1,Monday,289,36,13,33,330.061,High School,2,Yes,8,Without ICD
+337,15,1,Wednesday,291,31,12,40,330.061,High School,1,Yes,8,ICD
+338,5,1,Monday,235,20,13,43,330.061,High School,1,Yes,8,Without ICD
+339,36,1,Monday,118,13,18,50,330.061,High School,1,Yes,4,Without ICD
+340,3,1,Wednesday,179,51,18,38,330.061,High School,0,Yes,1,Without ICD
+341,3,1,Friday,179,51,18,38,330.061,High School,0,Yes,1,Without ICD
+342,34,2,Tuesday,118,10,10,37,251.81799999999998,High School,0,No,2,Without ICD
+343,3,2,Wednesday,179,51,18,38,251.81799999999998,High School,0,Yes,3,Without ICD
+344,28,2,Wednesday,225,26,9,28,251.81799999999998,High School,1,No,1,ICD
+345,11,2,Friday,289,36,13,33,251.81799999999998,High School,2,Yes,3,Without ICD
+346,20,2,Friday,260,50,11,36,251.81799999999998,High School,4,Yes,3,Without ICD
+347,3,2,Friday,179,51,18,38,251.81799999999998,High School,0,Yes,3,Without ICD
+348,3,2,Monday,179,51,18,38,251.81799999999998,High School,0,Yes,2,Without ICD
+349,3,2,Wednesday,179,51,18,38,251.81799999999998,High School,0,Yes,3,Without ICD
+350,3,2,Thursday,179,51,18,38,251.81799999999998,High School,0,Yes,8,ICD
+351,24,2,Thursday,246,25,16,41,251.81799999999998,High School,0,Yes,8,Without ICD
+352,3,2,Friday,179,51,18,38,251.81799999999998,High School,0,Yes,3,Without ICD
+353,6,2,Monday,189,29,13,33,251.81799999999998,High School,2,No,8,Without ICD
+354,3,2,Monday,179,51,18,38,251.81799999999998,High School,0,Yes,3,Without ICD
+355,24,2,Tuesday,246,25,16,41,251.81799999999998,High School,0,Yes,2,Without ICD
+356,15,2,Tuesday,291,31,12,40,251.81799999999998,High School,1,Yes,2,Without ICD
+357,30,2,Wednesday,157,27,6,29,251.81799999999998,High School,0,Yes,16,ICD
+358,3,2,Wednesday,179,51,18,38,251.81799999999998,High School,0,Yes,3,Without ICD
+359,3,2,Friday,179,51,18,38,251.81799999999998,High School,0,Yes,3,Without ICD
+360,24,2,Friday,246,25,16,41,251.81799999999998,High School,0,Yes,24,ICD
+361,3,2,Wednesday,179,51,18,38,251.81799999999998,High School,0,Yes,3,Without ICD
+362,3,2,Friday,179,51,18,38,251.81799999999998,High School,0,Yes,3,Without ICD
+363,34,3,Tuesday,118,10,10,37,244.387,High School,0,No,8,ICD
+364,24,3,Wednesday,246,25,16,41,244.387,High School,0,Yes,16,ICD
+365,24,3,Friday,246,25,16,41,244.387,High School,0,Yes,2,Without ICD
+366,20,3,Friday,260,50,11,36,244.387,High School,4,Yes,4,Without ICD
+367,3,3,Monday,179,51,18,38,244.387,High School,0,Yes,2,Without ICD
+368,1,3,Monday,235,11,14,37,244.387,PostGraduate,1,No,8,Without ICD
+369,17,3,Tuesday,179,22,17,40,244.387,Graduate,2,No,8,Without ICD
+370,23,3,Tuesday,378,49,11,36,244.387,High School,2,No,8,Without ICD
+371,3,3,Monday,179,51,18,38,244.387,High School,0,Yes,16,Without ICD
+372,10,3,Wednesday,361,52,3,28,244.387,High School,1,Yes,8,Without ICD
+373,1,3,Thursday,235,11,14,37,244.387,PostGraduate,1,No,8,ICD
+374,36,3,Friday,118,13,18,50,244.387,High School,1,Yes,2,Without ICD
+375,36,3,Tuesday,118,13,18,50,244.387,High School,1,Yes,3,ICD
+376,36,3,Wednesday,118,13,18,50,244.387,High School,1,Yes,8,ICD
+377,3,3,Friday,179,51,18,38,244.387,High School,0,Yes,8,Without ICD
+378,11,3,Friday,289,36,13,33,244.387,High School,2,Yes,8,Without ICD
+379,20,3,Monday,260,50,11,36,244.387,High School,4,Yes,8,ICD
+380,24,3,Tuesday,246,25,16,41,244.387,High School,0,Yes,2,Without ICD
+381,3,4,Wednesday,179,51,18,38,239.40900000000002,High School,0,Yes,4,Without ICD
+382,20,4,Friday,260,50,11,36,239.40900000000002,High School,4,Yes,3,Without ICD
+383,18,4,Friday,330,16,4,28,239.40900000000002,Graduate,0,No,4,Without ICD
+384,13,4,Monday,369,17,12,31,239.40900000000002,High School,3,Yes,4,Without ICD
+385,33,4,Monday,248,25,14,47,239.40900000000002,High School,2,No,4,Without ICD
+386,18,4,Wednesday,330,16,4,28,239.40900000000002,Graduate,0,No,8,Without ICD
+387,3,4,Wednesday,179,51,18,38,239.40900000000002,High School,0,Yes,8,Without ICD
+388,36,4,Monday,118,13,18,50,239.40900000000002,High School,1,Yes,1,Without ICD
+389,36,4,Wednesday,118,13,18,50,239.40900000000002,High School,1,Yes,120,ICD
+390,26,4,Friday,300,26,13,43,239.40900000000002,High School,2,Yes,8,Without ICD
+391,20,4,Friday,260,50,11,36,239.40900000000002,High School,4,Yes,4,Without ICD
+392,3,4,Monday,179,51,18,38,239.40900000000002,High School,0,Yes,4,Without ICD
+393,34,4,Wednesday,118,10,10,37,239.40900000000002,High School,0,No,2,ICD
+394,5,5,Monday,235,20,13,43,246.074,High School,1,Yes,16,ICD
+395,33,5,Wednesday,248,25,14,47,246.074,High School,2,No,2,Without ICD
+396,13,5,Monday,369,17,12,31,246.074,High School,3,Yes,8,ICD
+397,22,5,Wednesday,179,26,9,30,246.074,PostGraduate,0,No,3,Without ICD
+398,3,5,Wednesday,179,51,18,38,246.074,High School,0,Yes,4,Without ICD
+399,10,5,Thursday,361,52,3,28,246.074,High School,1,Yes,1,Without ICD
+400,20,5,Friday,260,50,11,36,246.074,High School,4,Yes,3,Without ICD
+401,17,5,Monday,179,22,17,40,246.074,Graduate,2,No,2,ICD
+402,17,5,Monday,179,22,17,40,246.074,Graduate,2,No,3,ICD
+403,9,5,Wednesday,228,14,16,58,246.074,High School,2,No,8,ICD
+404,28,5,Wednesday,225,26,9,28,246.074,High School,1,No,3,Without ICD
+405,18,5,Friday,330,16,4,28,246.074,Graduate,0,No,8,ICD
+406,22,5,Monday,179,26,9,30,246.074,PostGraduate,0,No,2,Without ICD
+407,34,5,Monday,118,10,10,37,246.074,High School,0,No,1,Without ICD
+408,1,5,Monday,235,11,14,37,246.074,PostGraduate,1,No,8,ICD
+409,22,5,Wednesday,179,26,9,30,246.074,PostGraduate,0,No,3,Without ICD
+410,34,6,Monday,118,10,10,37,253.957,High School,0,No,3,Without ICD
+411,3,6,Monday,179,51,18,38,253.957,High School,0,Yes,3,Without ICD
+412,34,6,Tuesday,118,10,10,37,253.957,High School,0,No,2,Without ICD
+413,28,6,Thursday,225,26,9,28,253.957,High School,1,No,4,Without ICD
+414,20,6,Friday,260,50,11,36,253.957,High School,4,Yes,4,Without ICD
+415,15,6,Monday,291,31,12,40,253.957,High School,1,Yes,40,ICD
+416,3,6,Monday,179,51,18,38,253.957,High School,0,Yes,24,Without ICD
+417,24,6,Tuesday,246,25,16,41,253.957,High School,0,Yes,3,Without ICD
+418,3,6,Monday,179,51,18,38,253.957,High School,0,Yes,4,Without ICD
+419,5,6,Tuesday,235,20,13,43,253.957,High School,1,Yes,8,Without ICD
+420,3,6,Monday,179,51,18,38,253.957,High School,0,Yes,2,Without ICD
+421,28,6,Wednesday,225,26,9,28,253.957,High School,1,No,2,Without ICD
+422,36,6,Wednesday,118,13,18,50,253.957,High School,1,Yes,2,Without ICD
+423,3,6,Wednesday,179,51,18,38,253.957,High School,0,Yes,8,ICD
+424,22,6,Wednesday,179,26,9,30,253.957,PostGraduate,0,No,2,ICD
+425,24,6,Friday,246,25,16,41,253.957,High School,0,Yes,2,Without ICD
+426,18,6,Tuesday,330,16,4,28,253.957,Graduate,0,No,1,ICD
+427,1,6,Tuesday,235,11,14,37,253.957,PostGraduate,1,No,8,ICD
+428,22,7,Thursday,179,26,9,30,230.29,PostGraduate,0,No,2,Without ICD
+429,28,7,Thursday,225,26,9,28,230.29,High School,1,No,4,Without ICD
+430,20,7,Friday,260,50,11,36,230.29,High School,4,Yes,8,ICD
+431,21,7,Monday,268,11,8,33,230.29,Graduate,0,No,8,ICD
+432,18,7,Friday,330,16,4,28,230.29,Graduate,0,No,8,Without ICD
+433,34,7,Friday,118,10,10,37,230.29,High School,0,No,8,Without ICD
+434,20,7,Monday,260,50,11,36,230.29,High School,4,Yes,4,Without ICD
+435,34,7,Tuesday,118,10,10,37,230.29,High School,0,No,8,Without ICD
+436,26,7,Monday,300,26,13,43,230.29,High School,2,Yes,8,ICD
+437,2,7,Monday,235,29,12,48,230.29,High School,1,No,1,Without ICD
+438,24,7,Tuesday,246,25,16,41,230.29,High School,0,Yes,2,Without ICD
+439,28,7,Tuesday,225,26,9,28,230.29,High School,1,No,112,ICD
+440,3,7,Tuesday,179,51,18,38,230.29,High School,0,Yes,1,Without ICD
+441,36,7,Friday,118,13,18,50,230.29,High School,1,Yes,1,Without ICD
+442,10,7,Friday,361,52,3,28,230.29,High School,1,Yes,8,Without ICD
+443,11,7,Monday,289,36,13,33,230.29,High School,2,Yes,8,Without ICD
+444,5,7,Monday,235,20,13,43,230.29,High School,1,Yes,8,Without ICD
+445,24,7,Tuesday,246,25,16,41,230.29,High School,0,Yes,2,Without ICD
+446,15,7,Thursday,291,31,12,40,230.29,High School,1,Yes,1,Without ICD
+447,7,7,Thursday,279,5,14,39,230.29,High School,2,Yes,2,Without ICD
+448,3,8,Thursday,179,51,18,38,249.797,High School,0,Yes,4,Without ICD
+449,17,8,Monday,179,22,17,40,249.797,Graduate,2,No,1,Without ICD
+450,24,8,Tuesday,246,25,16,41,249.797,High School,0,Yes,4,Without ICD
+451,34,8,Tuesday,118,10,10,37,249.797,High School,0,No,4,Without ICD
+452,11,8,Tuesday,289,36,13,33,249.797,High School,2,Yes,8,Without ICD
+453,5,8,Tuesday,235,20,13,43,249.797,High School,1,Yes,8,Without ICD
+454,15,8,Thursday,291,31,12,40,249.797,High School,1,Yes,4,Without ICD
+455,3,8,Monday,179,51,18,38,249.797,High School,0,Yes,4,Without ICD
+456,17,8,Tuesday,179,22,17,40,249.797,Graduate,2,No,8,Without ICD
+457,18,8,Thursday,330,16,4,28,249.797,Graduate,0,No,16,Without ICD
+458,1,8,Tuesday,235,11,14,37,249.797,PostGraduate,1,No,4,Without ICD
+459,24,8,Tuesday,246,25,16,41,249.797,High School,0,Yes,1,Without ICD
+460,34,8,Tuesday,118,10,10,37,249.797,High School,0,No,5,Without ICD
+461,15,8,Thursday,291,31,12,40,249.797,High School,1,Yes,2,Without ICD
+462,20,8,Monday,260,50,11,36,249.797,High School,4,Yes,3,Without ICD
+463,24,9,Tuesday,246,25,16,41,261.756,High School,0,Yes,1,Without ICD
+464,24,9,Tuesday,246,25,16,41,261.756,High School,0,Yes,1,Without ICD
+465,34,9,Tuesday,118,10,10,37,261.756,High School,0,No,3,Without ICD
+466,14,9,Tuesday,155,12,14,34,261.756,High School,2,Yes,2,Without ICD
+467,15,9,Thursday,291,31,12,40,261.756,High School,1,Yes,2,Without ICD
+468,22,9,Friday,179,26,9,30,261.756,PostGraduate,0,No,8,Without ICD
+469,33,9,Friday,248,25,14,47,261.756,High School,2,No,1,Without ICD
+470,3,9,Monday,179,51,18,38,261.756,High School,0,Yes,4,Without ICD
+471,28,9,Wednesday,225,26,9,28,261.756,High School,1,No,1,Without ICD
+472,22,9,Monday,179,26,9,30,261.756,PostGraduate,0,No,2,Without ICD
+473,13,9,Tuesday,369,17,12,31,261.756,High School,3,Yes,8,Without ICD
+474,10,9,Tuesday,361,52,3,28,261.756,High School,1,Yes,8,Without ICD
+475,32,10,Thursday,289,48,29,49,284.853,High School,0,No,1,ICD
+476,25,10,Thursday,235,16,8,32,284.853,PostGraduate,0,No,3,ICD
+477,24,10,Friday,246,25,16,41,284.853,High School,0,Yes,8,Without ICD
+478,32,10,Wednesday,289,48,29,49,284.853,High School,0,No,3,ICD
+479,15,10,Wednesday,291,31,12,40,284.853,High School,1,Yes,2,Without ICD
+480,34,10,Tuesday,118,10,10,37,284.853,High School,0,No,2,Without ICD
+481,32,10,Thursday,289,48,29,49,284.853,High School,0,No,2,Without ICD
+482,15,10,Friday,291,31,12,40,284.853,High School,1,Yes,1,Without ICD
+483,28,10,Tuesday,225,26,9,28,284.853,High School,1,No,2,Without ICD
+484,13,10,Tuesday,369,17,12,31,284.853,High School,3,Yes,8,Without ICD
+485,13,10,Tuesday,369,17,12,31,284.853,High School,3,Yes,3,Without ICD
+486,28,10,Tuesday,225,26,9,28,284.853,High School,1,No,4,Without ICD
+487,13,10,Tuesday,369,17,12,31,284.853,High School,3,Yes,8,Without ICD
+488,3,10,Wednesday,179,51,18,38,284.853,High School,0,Yes,3,Without ICD
+489,9,10,Wednesday,228,14,16,58,284.853,High School,2,No,1,ICD
+490,15,10,Wednesday,291,31,12,40,284.853,High School,1,Yes,1,Without ICD
+491,13,10,Thursday,369,17,12,31,284.853,High School,3,Yes,8,ICD
+492,28,10,Thursday,225,26,9,28,284.853,High School,1,No,1,ICD
+493,13,10,Friday,369,17,12,31,284.853,High School,3,Yes,8,ICD
+494,28,10,Friday,225,26,9,28,284.853,High School,1,No,3,ICD
+495,6,10,Monday,189,29,13,33,284.853,High School,2,No,8,Without ICD
+496,25,10,Monday,235,16,8,32,284.853,PostGraduate,0,No,8,ICD
+497,33,10,Monday,248,25,14,47,284.853,High School,2,No,8,ICD
+498,28,10,Tuesday,225,26,9,28,284.853,High School,1,No,3,ICD
+499,3,11,Tuesday,179,51,18,38,268.519,High School,0,Yes,1,ICD
+500,34,11,Wednesday,118,10,10,37,268.519,High School,0,No,3,Without ICD
+501,18,11,Wednesday,330,16,4,28,268.519,Graduate,0,No,24,ICD
+502,3,11,Friday,179,51,18,38,268.519,High School,0,Yes,1,Without ICD
+503,34,11,Tuesday,118,10,10,37,268.519,High School,0,No,8,ICD
+504,11,11,Wednesday,289,36,13,33,268.519,High School,2,Yes,8,Without ICD
+505,25,11,Friday,235,16,8,32,268.519,PostGraduate,0,No,8,ICD
+506,28,11,Friday,225,26,9,28,268.519,High School,1,No,4,Without ICD
+507,10,11,Tuesday,361,52,3,28,268.519,High School,1,Yes,8,Without ICD
+508,15,11,Wednesday,291,31,12,40,268.519,High School,1,Yes,2,Without ICD
+509,34,11,Thursday,118,10,10,37,268.519,High School,0,No,2,ICD
+510,28,11,Thursday,225,26,9,28,268.519,High School,1,No,3,ICD
+511,3,11,Monday,179,51,18,38,268.519,High School,0,Yes,1,Without ICD
+512,34,11,Monday,118,10,10,37,268.519,High School,0,No,8,Without ICD
+513,34,11,Tuesday,118,10,10,37,268.519,High School,0,No,8,ICD
+514,28,11,Tuesday,225,26,9,28,268.519,High School,1,No,2,Without ICD
+515,33,11,Thursday,248,25,14,47,268.519,High School,2,No,4,ICD
+516,28,11,Friday,225,26,9,28,268.519,High School,1,No,2,Without ICD
+517,13,11,Friday,369,17,12,31,268.519,High School,3,Yes,8,Without ICD
+518,10,11,Monday,361,52,3,28,268.519,High School,1,Yes,2,Without ICD
+519,3,12,Tuesday,179,51,18,38,280.54900000000004,High School,0,Yes,32,ICD
+520,15,12,Wednesday,291,31,12,40,280.54900000000004,High School,1,Yes,1,Without ICD
+521,28,12,Wednesday,225,26,9,28,280.54900000000004,High School,1,No,3,Without ICD
+522,22,12,Friday,179,26,9,30,280.54900000000004,PostGraduate,0,No,1,ICD
+523,28,12,Friday,225,26,9,28,280.54900000000004,High School,1,No,3,Without ICD
+524,28,12,Wednesday,225,26,9,28,280.54900000000004,High School,1,No,3,Without ICD
+525,10,12,Thursday,361,52,3,28,280.54900000000004,High School,1,Yes,4,ICD
+526,17,12,Friday,179,22,17,40,280.54900000000004,Graduate,2,No,2,ICD
+527,5,12,Friday,235,20,13,43,280.54900000000004,High School,1,Yes,8,Without ICD
+528,12,12,Monday,233,51,1,31,280.54900000000004,Graduate,1,Yes,8,ICD
+529,22,12,Tuesday,179,26,9,30,280.54900000000004,PostGraduate,0,No,16,ICD
+530,28,12,Tuesday,225,26,9,28,280.54900000000004,High School,1,No,2,Without ICD
+531,28,12,Thursday,225,26,9,28,280.54900000000004,High School,1,No,3,Without ICD
+532,28,12,Monday,225,26,9,28,280.54900000000004,High School,1,No,2,Without ICD
+533,14,12,Tuesday,155,12,14,34,280.54900000000004,High School,2,Yes,80,ICD
+534,22,1,Monday,179,26,9,30,313.532,PostGraduate,0,No,24,ICD
+535,22,1,Thursday,179,26,9,30,313.532,PostGraduate,0,No,16,ICD
+536,17,1,Thursday,179,22,17,40,313.532,Graduate,2,No,2,Without ICD
+537,17,1,Friday,179,22,17,40,313.532,Graduate,2,No,2,Without ICD
+538,22,1,Monday,179,26,9,30,313.532,PostGraduate,0,No,3,ICD
+539,17,1,Wednesday,179,22,17,40,313.532,Graduate,2,No,2,Without ICD
+540,32,1,Thursday,289,48,29,49,313.532,High School,0,No,8,ICD
+541,17,1,Friday,179,22,17,40,313.532,Graduate,2,No,3,ICD
+542,22,1,Monday,179,26,9,30,313.532,PostGraduate,0,No,2,Without ICD
+543,14,1,Tuesday,155,12,14,34,313.532,High School,2,Yes,8,ICD
+544,22,1,Wednesday,179,26,9,30,313.532,PostGraduate,0,No,2,Without ICD
+545,3,1,Wednesday,179,51,18,38,313.532,High School,0,Yes,3,Without ICD
+546,11,1,Wednesday,289,36,13,33,313.532,High School,2,Yes,8,ICD
+547,3,1,Thursday,179,51,18,38,313.532,High School,0,Yes,3,Without ICD
+548,3,1,Friday,179,51,18,38,313.532,High School,0,Yes,2,Without ICD
+549,3,2,Tuesday,179,51,18,38,264.249,High School,0,Yes,8,ICD
+550,28,2,Tuesday,225,26,9,28,264.249,High School,1,No,3,Without ICD
+551,33,2,Wednesday,248,25,14,47,264.249,High School,2,No,8,ICD
+552,3,2,Wednesday,179,51,18,38,264.249,High School,0,Yes,2,Without ICD
+553,28,2,Thursday,225,26,9,28,264.249,High School,1,No,3,Without ICD
+554,3,2,Thursday,179,51,18,38,264.249,High School,0,Yes,2,Without ICD
+555,22,2,Thursday,179,26,9,30,264.249,PostGraduate,0,No,2,Without ICD
+556,29,2,Friday,225,15,15,41,264.249,Master and Doctor,2,Yes,2,Without ICD
+557,3,2,Friday,179,51,18,38,264.249,High School,0,Yes,2,Without ICD
+558,12,2,Monday,233,51,1,31,264.249,Graduate,1,Yes,2,ICD
+559,3,2,Monday,179,51,18,38,264.249,High School,0,Yes,2,Without ICD
+560,28,2,Tuesday,225,26,9,28,264.249,High School,1,No,8,ICD
+561,3,2,Wednesday,179,51,18,38,264.249,High School,0,Yes,3,Without ICD
+562,3,2,Thursday,179,51,18,38,264.249,High School,0,Yes,3,Without ICD
+563,28,2,Thursday,225,26,9,28,264.249,High School,1,No,3,Without ICD
+564,22,2,Thursday,179,26,9,30,264.249,PostGraduate,0,No,2,ICD
+565,17,2,Friday,179,22,17,40,264.249,Graduate,2,No,2,Without ICD
+566,3,2,Friday,179,51,18,38,264.249,High School,0,Yes,3,Without ICD
+567,12,2,Wednesday,233,51,1,31,264.249,Graduate,1,Yes,3,ICD
+568,22,2,Wednesday,179,26,9,30,264.249,PostGraduate,0,No,2,Without ICD
+569,3,2,Wednesday,179,51,18,38,264.249,High School,0,Yes,2,Without ICD
+570,3,2,Thursday,179,51,18,38,264.249,High School,0,Yes,8,ICD
+571,3,2,Friday,179,51,18,38,264.249,High School,0,Yes,2,Without ICD
+572,14,2,Monday,155,12,14,34,264.249,High School,2,Yes,5,Without ICD
+573,25,2,Monday,235,16,8,32,264.249,PostGraduate,0,No,3,Without ICD
+574,3,2,Monday,179,51,18,38,264.249,High School,0,Yes,2,Without ICD
+575,28,2,Monday,225,26,9,28,264.249,High School,1,No,2,ICD
+576,3,2,Tuesday,179,51,18,38,264.249,High School,0,Yes,2,Without ICD
+577,33,2,Tuesday,248,25,14,47,264.249,High School,2,No,2,Without ICD
+578,28,2,Tuesday,225,26,9,28,264.249,High School,1,No,2,Without ICD
+579,3,2,Wednesday,179,51,18,38,264.249,High School,0,Yes,2,Without ICD
+580,3,2,Thursday,179,51,18,38,264.249,High School,0,Yes,2,Without ICD
+581,25,2,Friday,235,16,8,32,264.249,PostGraduate,0,No,2,Without ICD
+582,3,3,Monday,179,51,18,38,222.196,High School,0,Yes,2,Without ICD
+583,33,3,Monday,248,25,14,47,222.196,High School,2,No,2,Without ICD
+584,9,3,Tuesday,228,14,16,58,222.196,High School,2,No,3,Without ICD
+585,33,3,Tuesday,248,25,14,47,222.196,High School,2,No,3,Without ICD
+586,9,3,Tuesday,228,14,16,58,222.196,High School,2,No,112,ICD
+587,3,3,Wednesday,179,51,18,38,222.196,High School,0,Yes,2,Without ICD
+588,28,3,Thursday,225,26,9,28,222.196,High School,1,No,2,Without ICD
+589,3,3,Thursday,179,51,18,38,222.196,High School,0,Yes,3,Without ICD
+590,28,3,Thursday,225,26,9,28,222.196,High School,1,No,2,Without ICD
+591,22,3,Friday,179,26,9,30,222.196,PostGraduate,0,No,3,Without ICD
+592,25,3,Monday,235,16,8,32,222.196,PostGraduate,0,No,3,Without ICD
+593,10,3,Monday,361,52,3,28,222.196,High School,1,Yes,8,ICD
+594,3,3,Tuesday,179,51,18,38,222.196,High School,0,Yes,8,ICD
+595,3,3,Wednesday,179,51,18,38,222.196,High School,0,Yes,2,Without ICD
+596,3,3,Thursday,179,51,18,38,222.196,High School,0,Yes,3,Without ICD
+597,22,3,Friday,179,26,9,30,222.196,PostGraduate,0,No,2,Without ICD
+598,3,3,Monday,179,51,18,38,222.196,High School,0,Yes,4,ICD
+599,33,3,Monday,248,25,14,47,222.196,High School,2,No,2,ICD
+600,3,3,Monday,179,51,18,38,222.196,High School,0,Yes,3,Without ICD
+601,28,3,Monday,225,26,9,28,222.196,High School,1,No,8,ICD
+602,3,3,Tuesday,179,51,18,38,222.196,High School,0,Yes,2,Without ICD
+603,11,3,Wednesday,289,36,13,33,222.196,High School,2,Yes,8,Without ICD
+604,9,3,Wednesday,228,14,16,58,222.196,High School,2,No,2,Without ICD
+605,3,3,Wednesday,179,51,18,38,222.196,High School,0,Yes,2,Without ICD
+606,33,3,Thursday,248,25,14,47,222.196,High School,2,No,3,Without ICD
+607,3,3,Thursday,179,51,18,38,222.196,High School,0,Yes,3,Without ICD
+608,22,3,Friday,179,26,9,30,222.196,PostGraduate,0,No,2,Without ICD
+609,3,3,Friday,179,51,18,38,222.196,High School,0,Yes,3,Without ICD
+610,3,3,Tuesday,179,51,18,38,222.196,High School,0,Yes,3,Without ICD
+611,16,3,Wednesday,118,15,24,46,222.196,High School,2,Yes,8,Without ICD
+612,14,3,Wednesday,155,12,14,34,222.196,High School,2,Yes,24,ICD
+613,3,3,Wednesday,179,51,18,38,222.196,High School,0,Yes,3,Without ICD
+614,3,3,Thursday,179,51,18,38,222.196,High School,0,Yes,3,Without ICD
+615,22,3,Monday,179,26,9,30,222.196,PostGraduate,0,No,2,ICD
+616,11,3,Monday,289,36,13,33,222.196,High School,2,Yes,104,ICD
+617,13,3,Wednesday,369,17,12,31,222.196,High School,3,Yes,8,Without ICD
+618,28,4,Monday,225,26,9,28,246.28799999999998,High School,1,No,8,ICD
+619,34,4,Monday,118,10,10,37,246.28799999999998,High School,0,No,8,ICD
+620,10,4,Tuesday,361,52,3,28,246.28799999999998,High School,1,Yes,8,ICD
+621,33,4,Wednesday,248,25,14,47,246.28799999999998,High School,2,No,8,ICD
+622,6,4,Thursday,189,29,13,33,246.28799999999998,High School,2,No,8,ICD
+623,22,4,Friday,179,26,9,30,246.28799999999998,PostGraduate,0,No,2,Without ICD
+624,13,4,Monday,369,17,12,31,246.28799999999998,High School,3,Yes,24,ICD
+625,17,4,Tuesday,179,22,17,40,246.28799999999998,Graduate,2,No,2,ICD
+626,36,4,Tuesday,118,13,18,50,246.28799999999998,High School,1,Yes,3,Without ICD
+627,10,4,Tuesday,361,52,3,28,246.28799999999998,High School,1,Yes,2,Without ICD
+628,34,4,Wednesday,118,10,10,37,246.28799999999998,High School,0,No,2,ICD
+629,1,4,Friday,235,11,14,37,246.28799999999998,PostGraduate,1,No,8,Without ICD
+630,22,4,Friday,179,26,9,30,246.28799999999998,PostGraduate,0,No,2,Without ICD
+631,28,4,Monday,225,26,9,28,246.28799999999998,High School,1,No,8,ICD
+632,25,4,Tuesday,235,16,8,32,246.28799999999998,PostGraduate,0,No,3,ICD
+633,22,4,Friday,179,26,9,30,246.28799999999998,PostGraduate,0,No,2,Without ICD
+634,14,4,Tuesday,155,12,14,34,246.28799999999998,High School,2,Yes,4,Without ICD
+635,28,4,Thursday,225,26,9,28,246.28799999999998,High School,1,No,8,ICD
+636,36,4,Thursday,118,13,18,50,246.28799999999998,High School,1,Yes,2,ICD
+637,22,4,Friday,179,26,9,30,246.28799999999998,PostGraduate,0,No,2,Without ICD
+638,1,5,Monday,235,11,14,37,237.65599999999998,PostGraduate,1,No,8,Without ICD
+639,29,5,Wednesday,225,15,15,41,237.65599999999998,Master and Doctor,2,Yes,3,ICD
+640,25,5,Wednesday,235,16,8,32,237.65599999999998,PostGraduate,0,No,2,Without ICD
+641,34,5,Wednesday,118,10,10,37,237.65599999999998,High School,0,No,3,ICD
+642,5,5,Wednesday,235,20,13,43,237.65599999999998,High School,1,Yes,8,Without ICD
+643,22,5,Thursday,179,26,9,30,237.65599999999998,PostGraduate,0,No,1,ICD
+644,15,5,Thursday,291,31,12,40,237.65599999999998,High School,1,Yes,2,Without ICD
+645,29,5,Thursday,225,15,15,41,237.65599999999998,Master and Doctor,2,Yes,8,ICD
+646,26,5,Friday,300,26,13,43,237.65599999999998,High School,2,Yes,64,ICD
+647,29,5,Friday,225,15,15,41,237.65599999999998,Master and Doctor,2,Yes,8,Without ICD
+648,22,5,Friday,179,26,9,30,237.65599999999998,PostGraduate,0,No,2,Without ICD
+649,36,5,Monday,118,13,18,50,237.65599999999998,High School,1,Yes,2,Without ICD
+650,36,5,Tuesday,118,13,18,50,237.65599999999998,High School,1,Yes,3,ICD
+651,34,5,Tuesday,118,10,10,37,237.65599999999998,High School,0,No,1,Without ICD
+652,22,5,Wednesday,179,26,9,30,237.65599999999998,PostGraduate,0,No,2,Without ICD
+653,17,5,Friday,179,22,17,40,237.65599999999998,Graduate,2,No,1,ICD
+654,14,5,Monday,155,12,14,34,237.65599999999998,High School,2,Yes,48,ICD
+655,25,5,Monday,235,16,8,32,237.65599999999998,PostGraduate,0,No,8,ICD
+656,15,5,Wednesday,291,31,12,40,237.65599999999998,High School,1,Yes,8,Without ICD
+657,17,5,Wednesday,179,22,17,40,237.65599999999998,Graduate,2,No,8,ICD
+658,28,5,Wednesday,225,26,9,28,237.65599999999998,High School,1,No,3,ICD
+659,18,5,Thursday,330,16,4,28,237.65599999999998,Graduate,0,No,8,ICD
+660,25,5,Thursday,235,16,8,32,237.65599999999998,PostGraduate,0,No,2,Without ICD
+661,15,5,Thursday,291,31,12,40,237.65599999999998,High School,1,Yes,2,Without ICD
+662,22,5,Friday,179,26,9,30,237.65599999999998,PostGraduate,0,No,2,Without ICD
+663,10,5,Monday,361,52,3,28,237.65599999999998,High School,1,Yes,8,ICD
+664,14,5,Wednesday,155,12,14,34,237.65599999999998,High School,2,Yes,2,Without ICD
+665,17,5,Friday,179,22,17,40,237.65599999999998,Graduate,2,No,8,Without ICD
+666,14,5,Friday,155,12,14,34,237.65599999999998,High School,2,Yes,8,ICD
+667,28,5,Monday,225,26,9,28,237.65599999999998,High School,1,No,1,ICD
+668,16,6,Wednesday,118,15,24,46,275.089,High School,2,Yes,8,ICD
+669,22,6,Wednesday,179,26,9,30,275.089,PostGraduate,0,No,3,Without ICD
+670,34,6,Friday,118,10,10,37,275.089,High School,0,No,8,Without ICD
+671,34,6,Wednesday,118,10,10,37,275.089,High School,0,No,8,ICD
+672,23,6,Thursday,378,49,11,36,275.089,High School,2,No,8,Without ICD
+673,36,6,Thursday,118,13,18,50,275.089,High School,1,Yes,24,ICD
+674,12,6,Friday,233,51,1,31,275.089,Graduate,1,Yes,8,ICD
+675,22,6,Friday,179,26,9,30,275.089,PostGraduate,0,No,2,Without ICD
+676,36,6,Thursday,118,13,18,50,275.089,High School,1,Yes,3,ICD
+677,22,6,Thursday,179,26,9,30,275.089,PostGraduate,0,No,2,ICD
+678,15,6,Thursday,291,31,12,40,275.089,High School,1,Yes,2,Without ICD
+679,22,6,Monday,179,26,9,30,275.089,PostGraduate,0,No,3,ICD
+680,34,6,Monday,118,10,10,37,275.089,High School,0,No,3,Without ICD
+681,12,6,Thursday,233,51,1,31,275.089,Graduate,1,Yes,8,Without ICD
+682,34,6,Friday,118,10,10,37,275.089,High School,0,No,2,ICD
+683,34,6,Wednesday,118,10,10,37,275.089,High School,0,No,3,ICD
+684,12,6,Wednesday,233,51,1,31,275.089,Graduate,1,Yes,3,Without ICD
+685,5,7,Wednesday,235,20,13,43,264.60400000000004,High School,1,Yes,4,Without ICD
+686,12,7,Friday,233,51,1,31,264.60400000000004,Graduate,1,Yes,2,ICD
+687,9,7,Monday,228,14,16,58,264.60400000000004,High School,2,No,8,ICD
+688,34,7,Monday,118,10,10,37,264.60400000000004,High School,0,No,4,Without ICD
+689,9,7,Tuesday,228,14,16,58,264.60400000000004,High School,2,No,120,ICD
+690,6,7,Tuesday,189,29,13,33,264.60400000000004,High School,2,No,16,Without ICD
+691,34,7,Wednesday,118,10,10,37,264.60400000000004,High School,0,No,2,Without ICD
+692,10,7,Wednesday,361,52,3,28,264.60400000000004,High School,1,Yes,8,Without ICD
+693,28,7,Wednesday,225,26,9,28,264.60400000000004,High School,1,No,8,Without ICD
+694,13,7,Monday,369,17,12,31,264.60400000000004,High School,3,Yes,80,ICD
+695,11,7,Tuesday,289,36,13,33,264.60400000000004,High School,2,Yes,8,ICD
+696,1,7,Tuesday,235,11,14,37,264.60400000000004,PostGraduate,1,No,4,ICD
